@@ -12,7 +12,7 @@ Desenvolver uma análise de dados robusta voltada ao monitoramento e melhoria da
 ⚙️ Tecnologias Utilizadas
 - Python – para análise, manipulação e limpeza dos dados;
 - Pandas, NumPy e Matplotlib/Seaborn – bibliotecas de análise e visualização;
-- Power BI / Tableau – desenvolvimento de dashboards interativos;
+- Power BI – desenvolvimento de dashboards interativos (não presente no repositório por conter dados sensíveis da empresa);
 - Google Colab – documentação e experimentação das análises.
 ---
 🧩 Resultados Esperados
