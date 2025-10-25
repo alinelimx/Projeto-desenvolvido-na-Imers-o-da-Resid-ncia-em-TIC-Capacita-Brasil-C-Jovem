@@ -1,6 +1,3 @@
-Este repositório contém o projeto desenvolvido durante a Imersão Residência em TIC – Capacita Brasil – C Jovem, na trilha de Ciência de Dados.
-O projeto tem como foco o desenvolvimento de análises e dashboards interativos para otimizar a gestão em saúde na Santa Casa de Misericórdia.
-
 🎯 Objetivo:
 Desenvolver uma análise de dados robusta voltada ao monitoramento e melhoria da gestão de saúde, utilizando ferramentas modernas de visualização e manipulação de dados.
 
