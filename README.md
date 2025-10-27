@@ -13,7 +13,9 @@
 - Python – para análise, manipulação e limpeza dos dados;
 - Pandas, NumPy e Matplotlib/Seaborn – bibliotecas de análise e visualização;
 - Power BI – desenvolvimento de dashboards interativos (não presente no repositório por conter dados sensíveis da empresa);
-- Google Colab – documentação e experimentação das análises.
+- Jupyter Notebook – documentação e experimentação das análises.
+
+[![Skills](https://skillicons.dev/icons?i=python,github,vscode)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
 ---
 ### Resultados Esperados
 - Otimização da gestão hospitalar por meio da análise de indicadores;
